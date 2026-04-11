@@ -1,5 +1,5 @@
 {
-    "hest": "",
-    "grandqc": "",
+    "hest": "/home/yzy/.cache/trident/deeplabv3_seg_v4.ckpt",
+    "grandqc": "/home/yzy/.cache/trident/Tissue_Detection_MPP10.pth",
     "grandqc_artifact": ""
 }
